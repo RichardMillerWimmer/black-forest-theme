@@ -1,0 +1,21 @@
+{
+    "name": "black-forest-theme",
+    "displayName": "Black Forest Theme",
+    "description": "Black Forest Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black Forest Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Black Forest Theme-color-theme.json"
+            }
+        ]
+    }
+}
